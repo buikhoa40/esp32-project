@@ -20,5 +20,5 @@ Các linh kiện cần thiết:
 
 Thực hiện bởi nhóm nghiên cứ PMNM 2018 của khoa CNTT - Viện Đại học Mở Hà Nội (gọi tắt FITHOU)
   Các thành viên tham gia bao gồm:
-  Bùi Đăng Kh
+  Bùi Đăng Khoa <buikhoa40@yahoo.com>
 
