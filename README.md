@@ -18,6 +18,18 @@ Các linh kiện cần thiết:
 - MPU6050 (Cảm biến la bàn, gyro, tăng tốc)
 - Dây & cáp jumper
 
+Các phần mềm & thư viện sử dụng:
+- Arduino IDE
+- Android Studio
+- Processing IDE
+- ESP32 plugin for Arduino IDE
+- U8g2 library for Arduino
+- OSC library for Arduino
+- SimpleTimer for Arduino
+- i2cdevlib for Arduino
+- RTCLib for Arduino
+- python2.7 & Atom editor
+
 Thực hiện bởi nhóm nghiên cứ PMNM 2018 của khoa CNTT - Viện Đại học Mở Hà Nội (gọi tắt FITHOU)
   Các thành viên tham gia bao gồm:
   - Bùi Đăng Khoa <<buikhoa40@yahoo.com>>
